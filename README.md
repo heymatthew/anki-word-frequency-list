@@ -8,6 +8,7 @@ Use this deck to memorise the spelling and definitions of the most frequently us
 
 * DONE Connect to Dictionary Server. [dict.org](http://dict.org). [RFC 2229](https://www.rfc-editor.org/rfc/rfc2229).
 * DONE Get word frequency list. [wordfrequency](https://www.wordfrequency.info/).
+* Extract test cases from Spike.
 * Write output into Anki Import Format. [ankiweb](https://docs.ankiweb.net/importing.html).
 * Test drive in Anki.
 * Create github release action. [Github Marketplace](https://github.com/marketplace?type=actions&query=release+).
