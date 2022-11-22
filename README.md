@@ -10,7 +10,7 @@ Use this deck to memorise the spelling and definitions of the most frequently us
 * DONE Get word frequency list. [wordfrequency](https://www.wordfrequency.info/).
 * Write output into Anki Import Format. [ankiweb](https://docs.ankiweb.net/importing.html).
 * Test drive in Anki.
-* Create github release action. [Github Marketplace](https://github.com/marketplace?type=actions&query=release+)
+* Create github release action. [Github Marketplace](https://github.com/marketplace?type=actions&query=release+).
 * Link to releases in README.
 * Add instructions to README.
-* Add English language rules to beginning of Anki deck. [Read and Spell](https://www.readandspell.com/learning-to-spell-for-adults)
+* Add English language rules to beginning of Anki deck. [readandspell.com](https://www.readandspell.com/learning-to-spell-for-adults)
